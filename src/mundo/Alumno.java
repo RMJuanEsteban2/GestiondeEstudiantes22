@@ -23,6 +23,7 @@ public class Alumno {
 
         
             
+        
     }
 
     public Alumno(int semestre, String nombre, String apellido, String correo, float celular, float cedula) {
