@@ -211,7 +211,8 @@ public  static void eliminarAlumno (Scanner lector, ArrayList<Alumno> misAlumnos
         alumnoEncontrado = true;
         misAlumnos.remove(alumno);
         System.out.println("Alumno eliminado");
-        break; // Importante para evitar problemas
+        // Importante para evitar problemas
+        break; 
     }
 }     
    }
