@@ -17,6 +17,7 @@ public class Alumno {
     private String correo;
     private float celular;
     private float cedula;
+  
     
     public Alumno() { 
 
