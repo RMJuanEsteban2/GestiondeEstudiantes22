@@ -10,6 +10,7 @@ package mundo;
  */
 public class Alumno {
     
+    
     private int semestre;
     private String nombre;
     private String apellido;
